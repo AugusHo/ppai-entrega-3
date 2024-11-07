@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImportarBodega")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c1009a1ae8fb3c6e293e106b25b3d2ef94f19a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImportarBodega")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImportarBodega")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
